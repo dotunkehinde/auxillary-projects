@@ -1,6 +1,10 @@
 # Shell Scripting
 ## Introduction
 In this project, we will onboard 20 new Linux users onto a server. Our task is to create a shell script that reads a .csv file that contains the first names of the users to be onboarded.
+
+## Onboarding Users Demo
+https://user-images.githubusercontent.com/20668013/121792110-ffd60780-cbe8-11eb-9934-e0b16141c99d.mp4  
+
 - Created a project folder called Shell
 ```
 mkdir Shell
